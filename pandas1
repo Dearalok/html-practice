@@ -1,0 +1,11 @@
+# Declaring a list
+L = [1, "a", "string" , 1+2]
+print list
+#Adding an element in the list
+L.pop()
+print (L)
+#Deleting last element of the list
+L.pop()
+print (L)
+#Displaying Second element of the list
+print (L[1])

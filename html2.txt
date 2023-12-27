@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <title>HTML 5 DEMO</title>
+
+     <style>
+        .GFG {
+            font-size:40px;
+            font-weight:bold;
+            colour:green;
+        }
+        body {
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class = "GFG">GreeksforGreeks</div>
+    <aside>
+       <div> A computer science portal for greeks </div>
+    </aside>
+</body>
+</html>
+
+        

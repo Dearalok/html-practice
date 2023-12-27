@@ -1,0 +1,52 @@
+<DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Figure Tag Greeks</title>
+    <style>
+        body {
+            font-family: Arial,sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        h1 {
+            background-colour: #333:
+            colour:#fff;
+            padding: 15px;
+        }
+
+       figure {
+          margin: 20px;
+          padding: 10px
+          border: 1px solid #fff;
+          display: inline-block;
+       } 
+
+       img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+       }
+
+       figcaption {
+        margin-top: 10px;
+        font-style: italic;
+        color: #555;
+       }
+    </style>
+</head>
+
+<body>
+    
+    <h1>GreeksforGreeks</h1>
+    <h2>Figure Tag Example</h2>
+
+    <!--HTML figure tag end here -->
+    
+</Body>
+
+</html>
+

@@ -1,0 +1,7 @@
+# Assigning string to a variable
+a = 'this is a string'
+print (a)
+b = "this is a string"
+print (b)
+c = '''this is a string'''
+print (c)

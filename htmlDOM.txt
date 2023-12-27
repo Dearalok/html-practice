@@ -1,0 +1,57 @@
+<DOCTYPE html>
+<html>
+
+<head>
+    <title> GreeksforGreeks <title>
+    <meta name="keyboard" content="meta Tags, Metadata">
+    <meta name="description" content="Greeksforgreeks is a computer science portal."/>
+    <style type="text/css">
+         body {
+            background-color: powderblue:;
+         }
+         
+         h1 {
+            color: black;
+            font-family: arial;
+         }
+    </style>
+</head>
+
+<body>
+    <p>
+       Greekforgreeks is a
+       <!--span tag starts -->
+       <span style="color:red;font-weight:bolder">
+           computer science</span> portal for
+           <span style="background-color: lightgreen;">
+                greeks
+        </span>
+        <!--span tag end -->
+        <!--pre tag start here -->
+     <pre>
+        This
+        is      a  pre  tag.
+        </pre>
+       </p>
+       <!--html pre tag ends here -->
+       <!--code Tag start here-->
+       code tag: Display cone snippets.
+       <code> 
+          #include<studio.h>
+              int main()  {
+                printf("Hello Greeks");
+              }
+              <!--code Tag ends here -->
+              </code>
+              <p>
+                  Click on the following link
+                  <!--anchor tag start -->
+                  <a href="https//www.greeksforgreeks.org">
+                       GreeksforGreeks
+                   </a>
+                   <!--anchor tag ends -->
+                   </P>
+</body>
+
+</html>
+   

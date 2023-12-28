@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--Defines type of documents : html 5.0 -->
+<!DOCTYPE html>
+<!--defines type of document :Html 5.0-->
+<html lang="en">
+     <!--Defines language of content : english -->
+     <head>
+     <!--information about website and creater -->
+     <meta chrset="utf-8">
+     <meta http-equiv="x-ua-copatible" content=IE=edge">
+     <!--define the copatibility of version with browser -->
+     <meta name="viewport" content="with=device-width, initial-scale=1.0">
+     <!-- for make website resposive -->
+     <meta name="authour" content="Mr.X">
+     <meta name>"limkedin profile" content="www.limkedin.comdearalok>x_123"
+     <!--To give information about author or owner -->
+     <meta name="description "
+     content="A better place to learn computer science">
+     <!-- to explain aboput website in few words -->
+     <title>GreeksforGreeks</Title>
+     <!--Name of website or content to display -->
+     </head>
+     <body>
+           <!--Main content of website -->
+           <h1>GreeksforGreeks<?h1>
+           <p> A computer portal for greeks</p>
+           </body>
+           </html>
+           

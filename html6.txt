@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+   <center>
+     <h1 style="colour:green;font-style:italic;">
+         Greeksforgreeks
+     </h1>
+     <form action=""> 
+        username:
+        <input type="text" name="username" maxlength="12">
+            <br><br>
+
+        password:
+        <input> type="text" name="password" maxlength="10">
+        <br><br>   
+
+        <input> type="submit" value="submit">
+     </form>
+   </center>
+</body>
+</html>   
+

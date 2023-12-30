@@ -1,0 +1,11 @@
+# important pandas as pandas
+import pandas as pandas
+
+# list of stings
+1st = ['Geeks', ' For', Geeks', 'is',
+             'portal', 'for', 'Geeks']
+
+# Calling DataFrame constructor onn list
+df = pd.DataFrame constructor on list
+df = pd.DataFramme(1st)
+print(df)
